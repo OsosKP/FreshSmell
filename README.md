@@ -3,7 +3,7 @@ http://freshsmell.netsoc.com
 
 Alternate: http://alt.freshsmell.netsoc.com/
 
-A web-based code-smell analyzer for java files
+A web-based code-smell analyzer for Java using Spring Boot, Tomcat and .jsp.
 
 Getting Started (user):
 1. Access at freshsmell.netsoc.com
